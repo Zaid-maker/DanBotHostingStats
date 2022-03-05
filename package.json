@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/danbot-devs/DanBotHostingStats#readme",
   "dependencies": {
-    "axios": "^0.21.0",
+    "axios": "^0.26.0",
     "body-parser": "latest",
     "canvas": "^2.6.1",
     "chalk": "^3.0.0",
