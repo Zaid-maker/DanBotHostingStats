@@ -39,7 +39,7 @@
     "lodash-es": "^4.17.21",
     "minimist": "^1.2.5",
     "moment": "^2.27.0",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.7",
     "nodemailer": "^6.4.11",
     "passport": "^0.4.1",
     "passport-discord": "^0.1.4",
